@@ -1,0 +1,75 @@
+h1 {
+  text-align: center;
+  background: grey;
+
+}
+
+body {
+  background-image: url(pineapple.jpg);
+  background-size: cover;
+  margin: center;
+
+}
+
+
+.container-fluid {
+
+}
+
+.container {
+
+  border: 1px solid black;
+
+  padding: 100px;
+}
+
+.headingimage{
+
+  
+}
+
+.face {
+  width: 10%;
+  height: 10%;
+  float:right;
+}
+
+
+
+.hline {
+  width:100%;
+  height: 5px;
+  background: #fff;
+}
+
+nav {
+
+}
+
+.row {
+
+}
+
+.col{
+
+}
+
+.w-100 {
+
+}
+
+main {
+
+}
+
+
+.paragraph1 {
+  padding: 30px;
+  text-align:;
+}
+
+
+
+footer{
+
+}
